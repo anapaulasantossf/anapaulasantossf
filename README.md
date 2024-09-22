@@ -22,9 +22,7 @@ Perfil de profissional empenhado, comprometido, com facilidade para trabalhar em
 
 
 ## Contatos
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunome)](https://www.linkedin.com/in/seunome)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-paula-santos-613554b9)](https://www.linkedin.com/in/ana-paula-santos-613554b9)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/seunome)](https://github.com/seunome)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/anapaulasantossf)](https://github.com/anapaulasantossf)
 
 
