@@ -32,3 +32,4 @@ Perfil de profissional empenhado, comprometido, com facilidade para trabalhar em
 
 
 ![Snake animation](https://github.com/anapaulasantossf/anapaulasantossf2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anapaulasantossf/anapaulasantossf2/blob/output/github-contribution-grid-snake.svg)
