@@ -19,6 +19,13 @@ Perfil de profissional empenhado, comprometido, com facilidade para trabalhar em
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=githubactions&logoColor=white&style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/-Clean%20Code-8E44AD?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/-DevOps-1F305F?style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+
 
 
 ## Contatos
